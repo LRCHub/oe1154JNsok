@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Mystical Magical",
+  "base_artist": "Benson Boone",
+  "createdAt": "2026-02-28T10:19:47.128412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mystical Magical",
+      "artist": "Benson Boone",
+      "has_synced": true,
+      "path": "select/01_Mystical_Magical_Benson_Boone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Benson Boone - Mystical Magical (Official Lyric Video)",
+      "artist": "Benson Boone",
+      "has_synced": true,
+      "path": "select/02_Benson_Boone_-_Mystical_Magical_(Official_Lyric_Video)_Benson_Boone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mystical Magical (Paused)",
+      "artist": "Benson Boone",
+      "has_synced": true,
+      "path": "select/03_Mystical_Magical_(Paused)_Benson_Boone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mystical Magical",
+      "artist": "Benson Boone",
+      "has_synced": false,
+      "path": "select/pl_01_Mystical_Magical_Benson_Boone.txt"
+    }
+  ]
+}
